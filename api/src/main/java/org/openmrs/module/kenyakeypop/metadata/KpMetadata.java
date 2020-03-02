@@ -10,8 +10,6 @@
 package org.openmrs.module.kenyakeypop.metadata;
 
 import org.openmrs.PatientIdentifierType;
-import org.openmrs.module.kenyaemr.metadata.KpMetadata;
-import org.openmrs.module.kenyaemr.metadata.KpMetadata;
 import org.openmrs.module.metadatadeploy.bundle.AbstractMetadataBundle;
 import org.springframework.stereotype.Component;
 
